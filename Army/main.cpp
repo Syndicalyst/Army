@@ -269,10 +269,6 @@ int main() {
     std::cout << *pri << std::endl;
     std::cout << *ber << std::endl;
     std::cout << *nec << std::endl;
-    // ber->attack(*pri);
-    // std::cout << *pri << std::endl;
-    // std::cout << *ber << std::endl;
-    // std::cout << *nec << std::endl;
     wait();
     clean();
     
